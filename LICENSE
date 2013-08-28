@@ -1,25 +1,4 @@
-Exception.io
-============
-
-A collection of custom exception classes written in various programming languages.
-
-## Languages
-Custom exception classes are available in the following languages:
-
-- C++
-- C#
-- Java
-- JavaScript
-
-## Contributing
-Please submit pull requests for bug fixes and more exception classes in additional languages.
-
-## Contributors
-- [Zeeshan Mian](http://zmian.me)
-
-## License
-
-(The MIT License)
+The MIT License (MIT)
 
 Copyright (c) 2013 Zeeshan Mian
 
