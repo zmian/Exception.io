@@ -55,7 +55,7 @@ Exception.prototype.constructor = Exception;
  */
 Exception.prototype.toString = function() {
   return '[' + this.name + '] ' + this.message;
-}
+};
 
 
 /**
