@@ -1,0 +1,26 @@
+{
+  "name": "xcore-exceptions",
+  "version": "1.0.0",
+  "description": "A collection of custom exception classes written in JavaScript.",
+  "author": {
+    "name": "Zeeshan Mian",
+    "url": "http://zmian.me"
+  },
+  "homepage": "https://github.com/zmian/Exception.io",
+  "main": "exceptions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zmian/Exception.io"
+  },
+  "bugs": {
+    "url": "https://github.com/zmian/Exception.io/issues"
+  },
+  "keywords": [
+    "exceptions",
+    "xcore"
+  ]
+}

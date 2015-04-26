@@ -1,4 +1,4 @@
-Exception.io: JavaScript
+Exception.io: JavaScript [![NPM version][npm-version-image]][npm-url]
 ========================
 
 A collection of custom exception classes written in JavaScript.
@@ -86,3 +86,6 @@ Handle specific exception types using exception's constructor property:
 ## License
 
 Exception.io is released under the MIT license. See LICENSE for details.
+
+[npm-url]: https://www.npmjs.com/package/xcore-exceptions
+[npm-version-image]: http://img.shields.io/npm/v/xcore-exceptions.svg
